@@ -4,34 +4,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CATEGORY"
-msgstr "Category"
+msgstr "kulupu"
 
 msgid "CHANNEL_ID"
-msgstr "Channel ID"
+msgstr "nanpa ma"
 
 msgid "CHANNEL_INFORMATION"
-msgstr "Channel Information"
+msgstr "sona ma"
 
 msgid "CHANNEL_LOCKED"
-msgstr "This channel is locked."
+msgstr "ma ni li ken open ala."
 
 msgid "CHANNEL_NAME"
-msgstr "Channel Name"
+msgstr "nimi ma"
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "You must pick a channel."
+msgstr "o anu e ma."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "sina pona ala e ___ sina la, sina ken ala pana e lipu tawa."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
+msgstr "lipu tawa ni li lon ma Sutomemo. o ante e ona."
 
 msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "lipu tawa"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "lipu tawa li pakala. tenpo kama lili la, o lukin sin."
 
 msgid "FLIPNOTE_POST_FAILED"
 msgstr "Flipnote upload failed. Try again in a moment."
